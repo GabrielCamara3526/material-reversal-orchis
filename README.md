@@ -1,6 +1,8 @@
 # Requirements
 - **Cinnamon desktop 5.6 or higher**
-- **Gnome 43, 44, ... or higher**
+- **Material GTK theme**
+- **Reversal Icon theme**
+- **Orchis-Dark Cinnamon theme**
 
 # How to Download
 - Download ZIP file
